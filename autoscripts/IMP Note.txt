@@ -1,0 +1,14 @@
+Create folder krishna_hospital_backup in C Drive.
+
+Create 4 folders inside krishna_hospital_backup folder.
+ 
+    1) task_script
+    2) daily_main_db_backup
+    3) main_db_backup
+    4) backup_db_backup
+
+Now copy the DeleteAndBackup.bat and paste inside task_script folder 
+and then schedule the Task.
+
+-----Avoid Spelling mistakes while creating folders------------
+

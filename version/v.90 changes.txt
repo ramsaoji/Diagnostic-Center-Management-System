@@ -1,0 +1,146 @@
+V.90 Changed commission range and rate in procedures.
+
+V.89 Added Scrollbars for dr search list.
+
+V.88 Commision calculated accoriding to scan type rates all procedures changed.
+
+V.87 City appended in Dr Name Search on all pages, Search Enhanced on all pages.
+     Manage Procedure Changed.
+     Inserted real data in Doctor_master table and city table.
+
+V.86 Calculating commission by price range using fix price. Dropped calculation using doctor percentage.
+     Report Procedures changed.
+
+V.85 Whole CSS improved.
+
+V.84 Removed invoice button from report page instead added link on dr name for more details
+     And DB procedures also changed.
+
+V.83 Improved Preview and Invoice Page CSS.
+
+V.82 Added Dr City on invoice and invoice procedure also changed.
+
+V.81 Added Invoice for Doctors also DB Procedure Added as Invoice.
+
+V.80 New logic for validation on newpatient & record-manage-actual page and restricted typing date manually on all pages
+
+V.79 Added last updated timestamp on records manage actual page and DB & Triggers also changed . 
+
+V.78 Font css added
+
+V.77 Major Change instead of creating json data files using SESSION variables for storing json data
+     by this direct url access to json files eliminated. Now no need of json files seperately.
+
+V.76 Added icons for buttons
+
+V.75 Removed City Search DB dependancy.
+
+V.74 Removed db dependacy for scan types dropdowns & original price.
+
+V.73 
+       1) Db dependacy removed from newpatient & record-manage-actual for dr search and validations.
+       2) Improved Validations.
+
+V.72 Improved login internally 
+
+V.71 Now Dr search validation on json data 
+
+V.70 Dr search through json and search algo and improved php authentication to other pages.
+
+V.69 Dr Search Major change, Procedure added in db;
+
+V.68 Little Optimised
+
+V.67 Minor Changes
+
+V.66 Preview pdf enhancments.
+
+V.65 Export Options Improvements.
+
+V.64 Enhancments
+
+V.63 Minor Change
+
+V.62 Final
+
+V.61 Added up down enter keys on search fully functional.
+
+V.60 Added up down enter keys on search but partially.
+
+V.59 Major Change on Pricering included comma's
+
+V.58 Reports page city filter more robust and procedure changes in db
+
+V.57 Date filter updated 
+
+V.56 Added triggers and updated scripts
+
+V.55 Updated manage procedure in db
+
+V.54 Updated DB & All Working 
+
+V.53 DataTables buttons and export enhancement.
+
+V.52 Added some validations on reports page for selecting city. Preview button validations remaining.
+
+V.51 Major Change Added City Sorting and DB change
+
+V.50 Overall Improvements.
+
+V.49 Improved Report Page DataTables.
+
+V.48 Major Change On Report Page DataTables.
+
+V.47 DataTables Improvements and added more dummy doc record in db.
+
+V.46 Some fixes.
+
+V.45 Major Change for manage record. Updated DB Also.
+
+V.44 Added Autofetch
+
+V.43 ALL WORKING 
+
+V.42 Added alert for deleting record on record manage page.
+
+V.41 Some Css Changes
+
+V.40 Improved Record Manage Page.
+
+V.39 Added Dummy Patients in DB and Small Ui Change
+
+V.38 Overall changes (Final). Just add delete warning alert.
+
+V.37 All things moved to Admin Panel
+
+V.36 DB Changes, All Working Backend + Frontend.
+
+V.35 Showing Original Price on newpatient page. (Discount price input in progress)
+
+V.34 Major DB Changes and minor ui
+
+V.33 Changed Record manage page icon
+
+V.32 Added Pagination | Add alert for record delete.
+
+V.31 Added date filter on recod-manage page | Add alert for record delete. Add pagination whereever required.
+
+V.30 New DB, New UI (All working) | Add alert for record delete.
+
+V.29 Pre-Prod All Done (Thoroghly Testing Remaining) 
+
+       1) newpatient.php current date bug not taking current date at night after 12 am.
+
+V.28 - Major DB Change, Admin Panel Working with new db except print page.
+
+v.27 - New All in one query (Not working in php)
+
+v.26 - All fields properly mapped while filtering by scan type on report page (print remaining)
+
+v.25 - Added filter for print.
+
+v.24 - All type option in select menu.
+
+v.23 - Added Sorting by Scan Type on Reports Page (In Progress - Partially Done).
+
+v.22 - Fully Revamped Admin Panel - Reports Page (Code Change).
